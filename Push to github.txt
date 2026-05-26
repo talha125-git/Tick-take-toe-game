@@ -1,4 +1,4 @@
 git add .
-git commit -m "chnage bg "
+git commit -m "Add game.css"
 git push origin main
 
